@@ -1,0 +1,38 @@
+### Node Module System ###
+
+Node uses concepts of modules
+
+There are three types of module
+
+1.Built-in modules (available on http://nodejs.org/api)
+  Some of built-in modules are
+  a) OS
+  b) fs
+  c) events
+  d) http
+
+2.Custom modules
+3.Third party modules
+
+##
+
+Module system uses two properties
+
+1. exports
+2. require
+
+exports keyword is used to make propperties and methods available outside the module file.
+
+All the modules can be used in your js file by calling require.
+
+var x=require("os"); // os is a built-in module
+
+##
+
+Ref. file name : module_system.js
+
+
+
+
+
+
