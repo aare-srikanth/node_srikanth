@@ -8,3 +8,36 @@ Path Module
 Net Module
 DNS Module
 Domain Module
+
+
+
+TCP - Transmission Control Protocol
+
+
+/*****DNS Module*****/
+
+DNS - Domain Name System
+
+DNS is how domain names are translated into IP addresses.
+
+dns.lookup :
+
+Resolves a hostname (e.g. 'google.com') into the first found A (IPv4) or AAAA (IPv6) record. options
+
+dns.reverse :
+
+Reverse resolves an ip address to an array of hostnames.
+
+
+
+/*****Domain Module*****/
+
+Node.js domain module is used to intercept unhandled error.
+
+These unhandled error can be intercepted using internal binding or external binding. 
+
+1.Internal Binding- Error emitter is executing its code within the run method of a domain.
+2.External Binding- Error emitter is added explicitly to a domain using its add method.
+
+
+

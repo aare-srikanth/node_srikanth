@@ -1,0 +1,11 @@
+Web server :
+
+A Web Server is a software application which handles HTTP requests sent by the HTTP client, like web browsers, 
+and returns web pages in response to the clients. 
+Web servers usually deliver html documents along with images, style sheets, and scripts.
+
+>cd xampp/htdocs/node_js/web_module
+
+https://www.youtube.com/watch?v=oa9m8321_nw
+
+D:\xampp\htdocs\node_js\node_modules\http-server\bin\http-server
