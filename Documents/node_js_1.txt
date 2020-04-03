@@ -3,16 +3,14 @@ Introduction :
 javascript is a client side scripting language, it only works on browser.
 V8 Engine enables to run javascript on crome browser. 
 
-Node js is an open source,cross platform and a runtime environment for executing javascript code.
+Node.js is an open source,cross platform and a runtime environment for executing javascript code.
 It provides run time environment for javascript to interact with server as well.
-
-
 
 
 
 Installation : 
 
-Go to the below url and download node js installer for your platform.
+Go to the below url and download node.js installer for your platform.
 
 https://nodejs.org/en/download/
 

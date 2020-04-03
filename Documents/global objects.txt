@@ -48,11 +48,6 @@ __dirname :
 Represents the name of the directory that the currently executing script resides in.
 
 
- if($rows[$i]['code']=='IN'){
-        $rows[$i]['mixpanel_account_token']='bd3945ca2b9d542adaad70063481a89d';
-    }else{
-        $rows[$i]['mixpanel_account_token']='e12d2d02ad939367c416d264f3a1d7bb';
-    }  
 
 
 

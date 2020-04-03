@@ -9,3 +9,7 @@ Web servers usually deliver html documents along with images, style sheets, and 
 https://www.youtube.com/watch?v=oa9m8321_nw
 
 D:\xampp\htdocs\node_js\node_modules\http-server\bin\http-server
+
+npm init
+
+
