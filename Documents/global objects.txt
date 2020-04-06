@@ -1,0 +1,56 @@
+## global objects
+
+Node.js global objects are global in nature and they are available in all modules.
+
+
+Some of them are
+
+1.console.log() 
+2.setTimeout()  
+3.clearTimeout()
+4.setInterval()
+5.clearInterval()
+6.__filename
+7.__dirname
+
+console.log() :
+
+used to print information on stdout
+
+
+setTimeout() :
+
+This function is used to run a callback after at least ms(milli seconds)
+
+
+clearTimeout() :
+
+This function is used to stop the timer that was previously created with setTimeout().
+
+
+setInterval() :
+
+This function is used to run callback repeatedly after at least ms (milli seconds).
+
+
+clearInterval() :
+
+This function is used to clear the timer that was previously created with setInterval().
+
+
+__filename :
+
+Represents the filename of the code being executed.
+
+
+__dirname :
+
+Represents the name of the directory that the currently executing script resides in.
+
+
+
+
+
+
+
+

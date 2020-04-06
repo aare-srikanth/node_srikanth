@@ -1,0 +1,78 @@
+Introduction :
+
+javascript is a client side scripting language, it only works on browser.
+V8 Engine enables to run javascript on crome browser. 
+
+Node.js is an open source,cross platform and a runtime environment for executing javascript code.
+It provides run time environment for javascript to interact with server as well.
+
+
+
+Installation : 
+
+Go to the below url and download node.js installer for your platform.
+
+https://nodejs.org/en/download/
+
+Latest Version: 12.16.1
+
+
+
+Verify installation :
+
+
+After installation open command prompt and type the below command to check the version of node js.
+
+node -v
+
+Result : v12.16.1
+
+
+
+Executing JS File :
+
+File Name : file_name.js 
+
+Code : console.log("Hello, World!");
+
+
+
+If you want to execute a js file in command prompt first you have to move to the directory path where js file is located like below example.
+
+ex : d:\nodejs_examples
+
+then run the below command to execute
+
+node file_name.js
+
+Result : Hello, World!
+
+
+
+Features of Node.js :
+
+1.Productivity
+  We can use same language for front-end as well as back-end
+2.Asynchronous
+  non-blocking
+  Handling large amount of requests in a short period of time.
+3.Very Fast
+  Node.js library is very fast in code execution.
+3.Single Threaded but Highly Scalable
+  Event looping mechanism helps the server to respond in a non-blocking way. 
+4.No Buffering 
+  Node.js applications never buffer any data.
+
+
+
+
+
+
+
+
+
+
+
+
+
+

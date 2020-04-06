@@ -1,0 +1,4 @@
+Buffers : We use buffers to store data temporarily.
+
+Node provides Buffer class which provides instances to store raw data.
+

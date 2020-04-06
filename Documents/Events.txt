@@ -1,0 +1,4 @@
+Events in NodeJS are same as a callback. 
+A callback function is called when a function execution is completed where the events have to be fired based 
+on the observer. 
+Every event has listeners and when an event is fired its related listener function starts the execution
